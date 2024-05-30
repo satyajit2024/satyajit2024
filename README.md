@@ -19,13 +19,12 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
 ## 🔥 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyajit2024&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajit2024&layout=compact&theme=radical)
 
 ## 📈 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satyajit2024&theme=rogue)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyajit2024&theme=rogue)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=satyajit2024&theme=radical&no-bg=true&no-frame=true&margin-w=4)
