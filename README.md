@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Satyajit Sahoo]!
 
 ## About Me
 - 🎓 I’m a [Your Major] graduate from [Your University].
